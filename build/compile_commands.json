@@ -1,0 +1,12 @@
+[
+{
+  "directory": "E:/Code/C/6.18/build",
+  "command": "C:\\PROGRA~1\\mingw64\\bin\\gcc.exe  @CMakeFiles/app.dir/includes_C.rsp -g -o CMakeFiles\\app.dir\\src\\six.c.obj -c E:\\Code\\C\\6.18\\src\\six.c",
+  "file": "E:/Code/C/6.18/src/six.c"
+},
+{
+  "directory": "E:/Code/C/6.18/build",
+  "command": "C:\\PROGRA~1\\mingw64\\bin\\gcc.exe  @CMakeFiles/app.dir/includes_C.rsp -g -o CMakeFiles\\app.dir\\main.c.obj -c E:\\Code\\C\\6.18\\main.c",
+  "file": "E:/Code/C/6.18/main.c"
+}
+]

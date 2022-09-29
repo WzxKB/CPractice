@@ -1,0 +1,5 @@
+E:/Code/C/6.18/build/CMakeFiles/app.dir
+E:/Code/C/6.18/build/CMakeFiles/package.dir
+E:/Code/C/6.18/build/CMakeFiles/package_source.dir
+E:/Code/C/6.18/build/CMakeFiles/edit_cache.dir
+E:/Code/C/6.18/build/CMakeFiles/rebuild_cache.dir
